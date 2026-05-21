@@ -1,7 +1,7 @@
 # FOOTPRINTING AND RECONNAISSANCE 
  This section contains CEH labs related to performing footprinting through 
-    * Search engines 
-    * Internet research services 
+    -Search engines 
+     -Internet research services 
     - Social networking sites 
     - WHOis footprinting 
     - DNS footprinting 
